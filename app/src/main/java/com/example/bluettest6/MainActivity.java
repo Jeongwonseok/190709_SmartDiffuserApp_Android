@@ -8,7 +8,6 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
-import android.text.InputType;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
@@ -174,7 +173,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
+// 그냥 올려봄
 
         // 수면-강 버튼 클릭 리스너
         Button btnStrong_1 = findViewById(R.id.strong_1);
