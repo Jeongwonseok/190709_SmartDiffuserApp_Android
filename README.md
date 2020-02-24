@@ -31,7 +31,7 @@ SmartDiffuser App  (Android)
 ![시스템 구성](https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/시스템구성.png)
 
 ## 2.2. SW 구성
-![구성](https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/구성.png)
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/" width="300" height="300">
 
 ****
 # 3. 제공 기능
