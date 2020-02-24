@@ -35,9 +35,8 @@ SmartDiffuser App  (Android)
 
 ****
 # 3. 제공 기능
-<p align="center">
 <img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/메인.png" width="226" height="396"><br>
-</p>
+
 
 * **수면 모드**
 ```
