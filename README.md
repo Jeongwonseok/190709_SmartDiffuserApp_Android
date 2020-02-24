@@ -31,11 +31,14 @@ SmartDiffuser App  (Android)
 ![시스템 구성](https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/시스템구성.png)
 
 ## 2.2. SW 구성
-<center><img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/구성.png" width="300" height="300"></center><br>
+<img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/구성.png" width="300" height="300"><br>
 
 ****
 # 3. 제공 기능
+<p align="center">
 <img src="https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/smart/메인.png" width="226" height="396"><br>
+</p>
+
 * **수면 모드**
 ```
 * 사용자에게 수면 모드의 강, 약 제어를 제공한다.
